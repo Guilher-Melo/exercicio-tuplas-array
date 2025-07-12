@@ -1,0 +1,47 @@
+[
+    {
+        "nome": "Arya Stark",
+        "nivel": 15,
+        "hp": 320,
+        "habilidades": [
+            "Agilidade",
+            "Furtividade",
+            "Disfarces"
+        ],
+        "equipamentos": {
+            "arma": "Agulha",
+            "armadura": "Couro",
+            "anel": "Nenhum"
+        }
+    },
+    {
+        "nome": "Jon Snow",
+        "nivel": 12,
+        "hp": 450,
+        "habilidades": [
+            "Sorte",
+            "Liderança",
+            "Resiliência"
+        ],
+        "equipamentos": {
+            "arma": "Espada",
+            "armadura": "Metal",
+            "anel": "Nenhum"
+        }
+    },
+    {
+        "nome": "Hodor",
+        "nivel": 17,
+        "hp": 900,
+        "habilidades": [
+            "Força",
+            "Resistência",
+            "Grupo"
+        ],
+        "equipamentos": {
+            "arma": "Mãos",
+            "armadura": "Nenhum",
+            "anel": "Nenhum"
+        }
+    }
+]

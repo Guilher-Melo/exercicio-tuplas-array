@@ -1,0 +1,3 @@
+Espada de Ferro: 1
+Poção de Vida: 3
+Escudo de Madeira: 1

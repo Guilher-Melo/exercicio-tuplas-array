@@ -1,0 +1,23 @@
+{
+    "username": "brunorsouza",
+    "seguidores": 30000,
+    "seguindo": 30,
+    "posts": [
+        {
+            "titulo": "Na praia tche tche",
+            "likes": 90000,
+            "data": "20/01/2025"
+        },
+        {
+            "titulo": "Frio bom",
+            "likes": 50000,
+            "data": "20/07/2024"
+        },
+        {
+            "titulo": "Novo post incrível",
+            "likes": "25000",
+            "data": "07/07/2025"
+        }
+    ],
+    "biografia": "Cientista da computação em formação - UFRPE, sommelier de RU."
+}

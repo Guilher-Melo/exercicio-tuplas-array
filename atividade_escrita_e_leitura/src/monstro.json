@@ -1,0 +1,16 @@
+{
+    "nome": "Ogro",
+    "tipo": "Lutador",
+    "nivel": 8,
+    "pontos_ataque": 25,
+    "recompensas": [
+        {
+            "nome": "Bau",
+            "valor": 2
+        },
+        {
+            "nome": "Armadura",
+            "valor": 5
+        }
+    ]
+}
